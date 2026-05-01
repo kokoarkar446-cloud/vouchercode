@@ -19,7 +19,7 @@ RAINBOW = [R, Y, G, C, Fore.MAGENTA, Fore.BLUE]
 # ===============================
 # CONFIGURATION
 # ===============================
-RAW_KEY_URL = "Https://raw.githubusercontent.com/kokoarkar446-cloud/voucher/refs/heads/main/keys.txt"
+RAW_KEY_URL = "https://raw.githubusercontent.com/kokoarkar446-cloud/vouchercode/refs/heads/main/keys.txt"
 if os.name == 'nt': DOWNLOAD_DIR = os.path.join(os.environ['USERPROFILE'], 'Downloads')
 else: DOWNLOAD_DIR = '/sdcard/Download'
 
